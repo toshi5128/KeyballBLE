@@ -69,9 +69,9 @@
 
         FUNCTION {
             bindings = <
-&trans     &kp N7        &kp N8    &kp N9  &trans                       &kp F1            &kp F7       &kp TILDE      &kp F4     &kp F5
-&kp DEL    &kp N4        &kp N5    &kp N6  &trans  &trans      &kp F13  &kp AT            &kp PAGE_UP  &kp PAGE_DOWN  &kp LC(C)  &kp F10
-&kp N0     &kp NUMBER_1  &kp N2    &kp N3  &trans  &trans      &trans   &kp LEFT_BRACKET  &mkp MB1     &mkp MB2       &kp LC(V)  &kp F11
+&trans     &kp N7        &kp N8    &kp N9  &trans                       &kp F1            &kp F7         &kp TILDE    &kp F4     &kp F5
+&kp DEL    &kp N4        &kp N5    &kp N6  &trans  &trans      &kp F13  &kp AT            &kp PAGE_DOWN  &kp PAGE_UP  &kp LC(C)  &kp F10
+&kp N0     &kp NUMBER_1  &kp N2    &kp N3  &trans  &trans      &trans   &kp LEFT_BRACKET  &mkp MB1       &mkp MB2     &kp LC(V)  &kp F11
 &kp LCTRL  &kp LGUI      &kp LALT  &trans  &trans  &trans      &trans   &trans                                                   &kp F12
             >;
 
