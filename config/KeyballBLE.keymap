@@ -80,10 +80,10 @@
 
         NUM {
             bindings = <
-&kp DELETE        &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp PLUS                                              &kp F2            &kp AMPERSAND   &kp UP_ARROW    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-&kp DEL           &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp ASTERISK  &kp LC(LA(KP_NUMBER_0))      &kp PLUS   &kp LC(F)         &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW       &kp LC(Z)
-&kp LS(NUMBER_9)  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp PERIOD    &kp EQUAL                    &kp MINUS  &kp LEFT_BRACKET  &mkp MB1        &mkp MB2        &kp LC(V)             &kp BACKSLASH
-&kp LC(ESC)       &kp NUMBER_0  &trans        &trans        &trans        &trans                       &trans     &trans                                                                  &kp PIPE
+&kp DELETE        &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp PLUS                                  &kp F2            &kp AMPERSAND   &kp UP_ARROW    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
+&kp DEL           &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp ASTERISK  &kp PERCENT      &kp PLUS   &kp LC(F)         &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW       &kp LC(Z)
+&kp LS(NUMBER_9)  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp UNDER     &kp EQUAL        &kp MINUS  &kp LEFT_BRACKET  &mkp MB1        &mkp MB2        &kp LC(V)             &kp BACKSLASH
+&kp LC(ESC)       &kp NUMBER_0  &trans        &trans        &trans        &trans           &trans     &trans                                                                  &kp PIPE
             >;
         };
 
